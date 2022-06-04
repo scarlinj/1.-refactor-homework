@@ -4,7 +4,9 @@
 
 Welcome to Horiseon Social Media Marketing!
 
-Here you will find an overview of Horiseon's services and a short description for what we can offer.  Click the links at the top to automatically navigate to each section.  Read about our offerings.
+Here you will find an overview of Horiseon's services and a short description for what we can offer.  Click the links at the top to automatically navigate to each section.  Read about our offerings here.
+
+[Screenshot of the menu available](./assets/images/menu-navigation.JPG "Menu")
 
 # Search Engine Optimization
 - Online Reputation Management
