@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,7 +35,6 @@ header section {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* consolidated these into the "header div" element above */
 
 /* .header div ul {
@@ -45,6 +45,20 @@ header section {
     display: inline-block;
     margin-left: 25px;
 } */
+
+nav  {
+    display: inline-block;
+    padding-top: 10px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+
 
 a {
     color: #ffffff;
