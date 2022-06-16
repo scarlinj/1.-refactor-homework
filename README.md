@@ -17,4 +17,4 @@ Here you will find an overview of Horiseon's services and a short description fo
 
 Find the deployed application:
 
-https://scarlinj.github.io/Challenge_1-Horiseon_Management/#social-media-marketing
+https://scarlinj.github.io/Horiseon_Management/
