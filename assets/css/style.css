@@ -37,14 +37,14 @@ header section {
 }
 /* consolidated these into the "header div" element above */
 
-/* .header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
-} */
+}
 
 nav  {
     display: inline-block;
